@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../scss/main.scss"
+	],
+	"sourcesContent": [
+		"h1 {\n    color: blue;\n    font-size: 4rem;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,IAAI,GAClB"
+}
